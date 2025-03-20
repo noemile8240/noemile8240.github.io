@@ -22,7 +22,7 @@ Data-driven professional with expertise in **business intelligence, data analyti
 ## Excel Online Store Sales Analysis
 ![image](https://github.com/user-attachments/assets/d79e4a98-4e72-458c-8b76-a046886599c8)
 
-## <a href="https://github.com/noemile8240/EliteStore_Analysis/blob/main/README.md/">View Project>
+## <a href="https://github.com/noemile8240/EliteStore_Analysis/blob/main/README.md/">View Project</a>
 
 
 
