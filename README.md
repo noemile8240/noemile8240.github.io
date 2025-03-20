@@ -20,6 +20,7 @@ Data-driven professional with expertise in **business intelligence, data analyti
 
 ## Projects
 ## Excel Online Store Sales Analysis
+![image](https://github.com/user-attachments/assets/d79e4a98-4e72-458c-8b76-a046886599c8)
 
 ## Professional Experience  
 ### **Data Analyst & Founder | The Designish | 2020 - 2024**  
