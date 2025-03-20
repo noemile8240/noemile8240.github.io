@@ -18,7 +18,8 @@ Data-driven professional with expertise in **business intelligence, data analyti
 - **Languages:** English (Fluent), Spanish (Fluent)  
 - **Certifications:** Google Data Analytics, PMP Certification, Lean Six Sigma Green Belt  
 
----
+## Projects
+-## Excel Online Store Sales Analysis
 
 ## 💼 Professional Experience  
 ### **Data Analyst & Founder | The Designish | 2020 - 2024**  
