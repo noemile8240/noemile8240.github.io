@@ -6,12 +6,12 @@
 
 ---
 
-## 🔍 About Me  
+##  About Me  
 Data-driven professional with expertise in **business intelligence, data analytics, and process automation**. Skilled in **SQL, Power BI, Tableau, and Excel**, with experience in **telecommunications, e-commerce, and operations**. Adept at transforming complex datasets into actionable insights to drive business decisions. Strong communicator with experience presenting to **executive stakeholders** and collaborating across **multi-functional teams**.  
 
 ---
 
-## 🛠 Skills & Tools  
+##  Skills & Tools  
 - **Data Analytics & BI Tools:** SQL, Power BI, Tableau, Microsoft Excel (Advanced), Microsoft Access  
 - **Data Science & Statistical Methods:** Data Cleaning & Transformation, Data Visualization, A/B Testing, Predictive Analytics, Data Governance & Compliance  
 - **Project & Business Tools:** Notion, Trello, Asana, WordPress  
@@ -21,7 +21,7 @@ Data-driven professional with expertise in **business intelligence, data analyti
 ## Projects
 -## Excel Online Store Sales Analysis
 
-## 💼 Professional Experience  
+## Professional Experience  
 ### **Data Analyst & Founder | The Designish | 2020 - 2024**  
 - **Trend Analysis:** Used predictive modeling to identify high-demand products, reducing **inventory holding costs by 23%** and increasing **sales conversions by 27%**.  
 - **Customer Segmentation:** Developed customer personas that optimized email marketing, leading to a **36% increase in repeat purchases**.  
